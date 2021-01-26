@@ -7,7 +7,7 @@ package exercise1;
 
 /**
  *
- * @author Haruun Mohamed
+ * @author Haruun Mohamed Jan 26 2021
  */
 public class CardTrick {
 
