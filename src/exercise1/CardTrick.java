@@ -31,25 +31,27 @@ public class CardTrick {
         }
         
       private static void printInfo(){
-      
+          System.out.println("You have guessed the correct answer!!");
+          
+          System.out.println("Background:");
           System.out.println("My name is Haruun Mohamed");
-          System.out.println("");
-          System.out.println("");
+          System.out.println("I was born in Toronto, Ontario");
+          System.out.println("I have 8 siblings");
           
+          System.out.println("Schools I attended:");
+          System.out.println("I attended Whitehorn Elementary School");
+          System.out.println("I attended Fairwind Senior Public School");
+          System.out.println("I attended Rick Hansen Secondary School");
           
-          System.out.println("");
-          System.out.println("");
-          System.out.println("");
+          System.out.println("Tv Shows / Video Games");
+          System.out.println("I enjoy playing Action/Rpg/ Open World Games");
+          System.out.println("My Favourite Video Game is Destiny 2");
+          System.out.println("My Favourite Tv Show is Game of Thrones");
           
-          
-          System.out.println("");
-          System.out.println("");
-          System.out.println("");
-          
-      
-          System.out.println("");
-          System.out.println("");
-          System.out.println("");
+          System.out.println("Music");
+          System.out.println("90210 - Travis Scott");
+          System.out.println("Die for you - The Weeknd");
+          System.out.println("All of the Lights - Kanye West");
 
       
       
