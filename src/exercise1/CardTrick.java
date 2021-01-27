@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Haruun Mohamed
+Mr. Paul Bonenfant
+1/26/2021
  */
 package exercise1;
 
@@ -29,7 +29,7 @@ public class CardTrick {
         
         
         }
-        
+        // I'm done!
       private static void printInfo(){
           System.out.println("You have guessed the correct answer!!");
           
