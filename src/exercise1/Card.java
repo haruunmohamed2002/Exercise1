@@ -11,12 +11,26 @@ package exercise1;
  */
 public class Card {
     private int Cardnum;
-   
+    private String suit;
     
-    public static final String [] suit = {"Clubs", "Diamonds", "Spades", "Hearts"};
+    public static final String [] suits = {"Clubs", "Diamonds", "Spades", "Hearts"};
+
+    public String getSuit() {
+        return suit;
+    }
+
+    public void setSuit(String suit) {
+        this.suit = suit;
+    }
+
+    public int getCardnum() {
+        return Cardnum;
+    }
 
     public void setCardnum(int Cardnum) {
         this.Cardnum = Cardnum;
     }
+
+
     
 }
