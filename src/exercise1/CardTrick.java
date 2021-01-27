@@ -5,6 +5,8 @@
  */
 package exercise1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Haruun Mohamed Jan 26 2021
@@ -15,7 +17,19 @@ public class CardTrick {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner input = new Scanner(System.in);
+      
+        for(int i = 0; i < suits.length; i++){
+        
+        
+        
+        
+        
+        
+        }
+        
+        
+       
     }
     
 }
